@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 52.916665 52.916668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Icon.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient869">
+      <stop
+         style="stop-color:#3494e6;stop-opacity:1"
+         offset="0"
+         id="stop865" />
+      <stop
+         style="stop-color:#ec6ead;stop-opacity:1"
+         offset="1"
+         id="stop867" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient869"
+       id="linearGradient871"
+       x1="47.813988"
+       y1="108.95685"
+       x2="102.05357"
+       y2="108.95685"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.974537,0,0,0.974537,-46.717792,163.92784)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-50.439683"
+     inkscape:cy="194.32537"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-244.08332)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient871);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect863"
+       width="52.916668"
+       height="52.916668"
+       x="0"
+       y="244.08333"
+       inkscape:export-xdpi="240"
+       inkscape:export-ydpi="240" />
+    <g
+       transform="matrix(1.9569592,0,0,1.9569592,15.06242,-293.8069)"
+       id="layer1-9"
+       inkscape:label="Layer 1"
+       style="fill:#ffffff;fill-opacity:1">
+      <g
+         id="flowRoot815"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:FARRAY;-inkscape-font-specification:FARRAY;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(0.50114276,0,0,0.50114276,203.55029,115.65542)"
+         aria-label="Azuma">
+        <path
+           id="path819"
+           style="fill:#ffffff;fill-opacity:1"
+           d="m -382.93227,348.54211 c 0,-0.44 -0.36,-0.76 -0.8,-0.76 h -2.64 l -4.88,-19.56 -0.04,-0.2 c -0.12,-0.28 -0.4,-0.48 -0.72,-0.48 h -5.24 c -0.32,0 -0.6,0.2 -0.72,0.48 l -0.04,0.24 -8.12,32.44 c 0,0.04 0,0.08 -0.04,0.08 v 0.16 c 0,0.48 0.36,0.84 0.76,0.84 h 4.84 c 0.32,0 0.64,-0.24 0.72,-0.56 0,-0.04 0.04,-0.08 0.04,-0.08 l 1.76,-7.16 h 6.84 l 1.76,7.12 0.04,0.12 c 0.12,0.32 0.4,0.56 0.72,0.56 h 4.84 c 0.44,0 0.76,-0.36 0.76,-0.84 v -0.08 l -0.04,-0.2 -1.68,-6.68 h 1.08 c 0.44,0 0.8,-0.32 0.8,-0.76 z m -13.56,-0.76 1.88,-7.4 1.84,7.4 z"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
